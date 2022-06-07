@@ -49,7 +49,7 @@ return `## ${data.title}
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#nstallation)
+- [Installation](#installation)
 - [Contributors](#contributors)
 - [Usage](#usage)
 - [Tests](#tests)
