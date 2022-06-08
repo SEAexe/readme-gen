@@ -24,7 +24,7 @@ Open file of designated project in the terminal/bash. Install inquirer. Once inq
 None
 ## Questions
 - GitHub: undefined
-- Email: scott@email.com
+- Email: s@email.com
 
 ## Screenshots
 - ![Insert description here](Insert link to picture)

@@ -29,7 +29,7 @@ const questions = [
     {
         type: "input",
         message: "What are the contribution guidlines?",
-        name: "contributing"
+        name: "contributors"
     },
     {
         type: "input",
@@ -45,7 +45,7 @@ const questions = [
     {
         type: "input",
         message: "What is your GitHub username?",
-        name: "GitHub"
+        name: "github"
     },
     {
         type: "input",

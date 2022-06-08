@@ -73,7 +73,6 @@ ${data.tests}
 
 ## Screenshots
 - ![Insert description here](Insert link to picture)
-- ![Insert description here](Insert link to picture)
 
 `;
 
