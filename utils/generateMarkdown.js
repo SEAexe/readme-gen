@@ -60,7 +60,7 @@ ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
 [![license](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://shields.io/)
 ## Installation
-${data.install}
+${data.installation}
 ## Contributors
 ${data.contributors}
 ## Usage
