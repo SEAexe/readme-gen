@@ -58,7 +58,7 @@ return `## ${data.title}
 ${data.description}
 ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
-[![license](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://shields.io/)
+[![license](https://img.shields.io/badge/license-${data.license}-blue.svg)]()
 ## Installation
 ${data.installation}
 ## Contributors
