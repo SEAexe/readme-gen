@@ -13,7 +13,7 @@ A README generator using only a command line thanks to node and inquirer.
 ## License
       This license was used for this application
 
-[![license](https://img.shields.io/badge/license-undefined-blue.svg)](https://shields.io/)
+[![license](https://img.shields.io/badge/license-undefined-blue.svg)]()
 ## Installation
 undefined
 ## Contributors
